@@ -4,8 +4,13 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasionf&layout=compact&theme=tokyonight)
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Jasionf" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Jasionf&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
