@@ -18,24 +18,6 @@
 
 <h2 align="center">⚡About Me</h2>
 
-
-
-- 💻:Work in Seeed Studio Company as an application engineer
-
-  
-
-- 🏫:Studying in South China University of Technology
-
-  
-
-- 💬:Learn RTOS and wireless communication
-
-  
-
-- 🎯:More achievements in the AIOT field
-
-
-
 〰️_***Just settled in GitHub , i I hope to communicate with everyone and create high-quality products together👏***_〰️
 
 
